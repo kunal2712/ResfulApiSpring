@@ -1,0 +1,3 @@
+com\kenny\app\rest\Model\User.class
+com\kenny\app\rest\Controller\ApiController.class
+com\kenny\app\rest\RestApiApplication.class
